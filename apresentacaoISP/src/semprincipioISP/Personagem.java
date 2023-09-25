@@ -1,6 +1,7 @@
 package semprincipioISP;
 
 public interface Personagem {
-    void mover();
-    void atacar();
+	public void mover();
+	public void atacar();
+	public void usarMagia();
 }
