@@ -4,12 +4,12 @@ package comprincipioISP;
 public class Jogador implements Personagem, PersonagemComMagia{
     @Override
     public void mover() {
-        // Lógica para mover o herói
+        // Lógica para mover o Jogador
     }
 
     @Override
     public void atacar() {
-        // Lógica para o herói atacar
+        // Lógica para o Jogador atacar
     }
 
     @Override

@@ -5,11 +5,11 @@ public class Monstro implements Personagem {
 
 	@Override
 	public void mover() {
-		// TODO Auto-generated method stub		
+		// Lógica para mover o monstro
 	}
 	@Override
 	public void atacar() {
-		// TODO Auto-generated method stub
+        // Lógica para o monstro atacar
 		
 	}
 	
