@@ -5,7 +5,6 @@ import comprincipioSingleton.Jogador;
 public class visaocomprincipio {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		
 		Jogador player1 = Jogador.getInstance("Jogador Principal");
@@ -20,5 +19,4 @@ public class visaocomprincipio {
 	        player2.mostraStatus(); // player2 é o mesmo jogador principal, as informações são as mesmas
 		
 	}
-
 }

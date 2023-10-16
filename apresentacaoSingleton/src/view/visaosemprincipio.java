@@ -5,7 +5,6 @@ import semprincipioSingleton.Jogador;
 public class visaosemprincipio {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		// Criando jogadores
 		Jogador player1 = new Jogador("Jogador 1");
@@ -22,6 +21,3 @@ public class visaosemprincipio {
 	}
 
 }
-
-
-        
