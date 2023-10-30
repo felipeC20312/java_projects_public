@@ -8,7 +8,7 @@ import comFactoryMethod.ProcessoPaypalFactory;
 public class main {
     public static void main(String[] args) {
     
-        ProcessoPagamentoFactory factory;
+    ProcessoPagamentoFactory factory;
 
     factory = new ProcessoPaypalFactory();
     ProcessoPagamento processoPaypal = factory.criarProcessoPagamento();
